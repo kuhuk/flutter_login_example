@@ -1,16 +1,8 @@
-# open_new_screen
+# flutter_login_example
 
-Flutter application to open a new screen by tapping a button.
+Flutter application for both Android and iOS platforms which provides login functionality. I have used Firebase as the server.
 
-## Getting Started
+## Main modules integrated in this project:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+1. Navigation drawer
+2. Login Screen with validations
